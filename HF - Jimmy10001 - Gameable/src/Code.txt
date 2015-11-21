@@ -1,0 +1,12 @@
+Step 1: Program Start
+Step 2: Initialize the value for N
+Step 3: Initialize the value of M to 1
+Step 4: Initialize the value of F to 1
+Step 5: Set the value of F equal to F * M
+Step 6: Check if M is the same as N
+	Step 6a: If Yes,
+			Step 7a: Increase the value of M by one.
+			Step 8a: Repeat step 5 and 6.
+	Step 6b: If no,
+			Step 7b: Print the value of F
+Step 7: Exit the program.

@@ -1,0 +1,19 @@
+Exercise 10.1
+Q1 - The program is adding the sum of all the numbers in the array 'a'.
+	Variables:
+		grape - The sum of all numbers, starting at 0
+		i - A counter to know when to end the loop and where in the array to look.
+		a = This is the array with all the numbers.
+
+Q2 - Loops through an array and if the number in the array is equal to a variable, increase the value of pear by 1 and return how many numbers match.
+	Variables:
+		i - A counter to when to end the loop and where in the array to look.
+		pear - A variable to hold how many times te variable 'p' == the array at index i.
+		p - A integer that we are looking for in the array
+		a - The array with all the numbers.
+
+Q3 - This program checks to see if a certain number is in an array of integers, if the integer is found, we return where in the array it was found, if not found we return -1.
+	Variables:
+		i - A counter to know when to end the loop and where to look in the array.
+		a - An array full of integers.
+		p - The number we are looking for.
